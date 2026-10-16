@@ -1,6 +1,12 @@
 Markdown
-# Kassasystem (Inlämning 2)
+# Inlämningsuppgift 2 – Kassasystem
 
+**Författare:** Mohamed Mahamoud Abdi  
+**Kurs:** Programmering i Java  IOt26  
+**Datum:** Oktober 2026
+
+## Beskrivning
+Detta projekt innehåller en kassasystem-applikation i Java Swing...
 Ett objektorienterat kassasystem byggt i Java.
 Gränssnittet är utvecklat med Java Swing.
 
